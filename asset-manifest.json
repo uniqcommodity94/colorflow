@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/colorflow/static/css/main.2c009d99.css",
+    "main.js": "/colorflow/static/js/main.d5773d90.js",
+    "static/js/239.2236342c.chunk.js": "/colorflow/static/js/239.2236342c.chunk.js",
+    "static/js/977.4af67b4a.chunk.js": "/colorflow/static/js/977.4af67b4a.chunk.js",
+    "static/js/732.9a2f5d20.chunk.js": "/colorflow/static/js/732.9a2f5d20.chunk.js",
+    "static/js/453.7bcc1879.chunk.js": "/colorflow/static/js/453.7bcc1879.chunk.js",
+    "index.html": "/colorflow/index.html",
+    "main.2c009d99.css.map": "/colorflow/static/css/main.2c009d99.css.map",
+    "main.d5773d90.js.map": "/colorflow/static/js/main.d5773d90.js.map",
+    "239.2236342c.chunk.js.map": "/colorflow/static/js/239.2236342c.chunk.js.map",
+    "977.4af67b4a.chunk.js.map": "/colorflow/static/js/977.4af67b4a.chunk.js.map",
+    "732.9a2f5d20.chunk.js.map": "/colorflow/static/js/732.9a2f5d20.chunk.js.map",
+    "453.7bcc1879.chunk.js.map": "/colorflow/static/js/453.7bcc1879.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c009d99.css",
+    "static/js/main.d5773d90.js"
+  ]
+}
